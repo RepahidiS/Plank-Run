@@ -28,7 +28,7 @@ This project cannot publish any platform and cannot be monetized.
 
 ## How it's looking at scene tab
 
-![](https://github.com/RepahidiS/Plank-Run/blob/main/Screenshots/SceneTab.png "")
+![](https://github.com/RepahidiS/Plank-Run/blob/main/PlankRun/Screenshots/SceneTab.png "")
 
 ## Here is a short gameplay video
 
